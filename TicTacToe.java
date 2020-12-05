@@ -23,7 +23,7 @@ public class TicTacToe
   boolean gameOver ()
   {
     // code to be written
-    return false;
+    return false; // this line must also be removed
   }
   
   private final int N = 3;
