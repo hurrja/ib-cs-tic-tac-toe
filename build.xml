@@ -1,5 +1,5 @@
 <project name="tic-tac-toe" default="run" basedir=".">
-  <property name="main-class" value="TicTacToeApp"/>
+  <property name="main-class" value="Main"/>
   <property name="build-dir" value="build"/>
   <property name="class-dir" value="${build-dir}/class"/>
   <property name="jar-dir" value="${build-dir}/jar"/>
